@@ -1,18 +1,15 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: article
+title: About Jon Liu
+excerpt: Here is another string of text about me.
+date: 2020-05-13 21:27:36 -0400
+article_header:
+    type: overlay
+    theme: dark
+    background_color: '#311'
+    background_image: false
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Jon Liu. There should be more text here.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+To contact me, see the info on [Contact](/contact).

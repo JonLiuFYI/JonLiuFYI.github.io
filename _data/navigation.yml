@@ -1,0 +1,15 @@
+header:
+  - title: Projects
+    url: /projects
+
+  - title: Blog
+    url: /blog
+
+  - title: Now
+    url: /now
+
+  - title: About
+    url: /about
+
+  - title: Contact
+    url: /contact
