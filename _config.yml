@@ -214,11 +214,17 @@ defaults:
       layout: article
       sharing: false
       license: true
-      aside:
-        toc: true
       show_edit_on_github: false
       show_subscribe: true
       pageview: false
+  # all posts in /_projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      license: false
+      show_date: false
+
 
 
 ## => Plugins
