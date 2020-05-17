@@ -222,7 +222,7 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: project
+      layout: article
       license: false
       show_date: false
 

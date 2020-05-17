@@ -9,3 +9,5 @@ articles:
     show_cover: true
     show_readmore: true
 ---
+
+<!-- In the future, there could be a "featured projects" section here -->

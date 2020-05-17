@@ -1,13 +1,6 @@
 ---
 title: Test Project
 cover: /assets/images/now/now_2020-05-16.jpg
-
-mode: immersive
-header:
-    theme: dark
-article_header:
-  type: overlay
-  theme: dark
 ---
 
 TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
