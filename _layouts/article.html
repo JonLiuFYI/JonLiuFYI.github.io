@@ -11,7 +11,15 @@ type: article
 <div class="layout--article">
   {%- include article/top/custom.html -%}
 
-  <div class="article__content" itemprop="articleBody">{{ content }}</div>
+  <div class="article__content" itemprop="articleBody">
+    {%- if page.collection == 'projects' -%}
+      <a href="javascript:history.back()">← Back to Projects</a>
+      {%- if page.cover -%}
+        <img src="{{ page.cover }}" alt="Picture of project">
+      {%- endif -%}
+    {%- endif -%}
+    {{ content }}
+  </div>
 
   {%- if _sharing -%}
     <section class="article__sharing d-print-none">{%- include sharing.html -%}</section>

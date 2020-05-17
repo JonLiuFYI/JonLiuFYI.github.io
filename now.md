@@ -23,9 +23,9 @@ Since being required to stay home, I've upgraded my workout routine, and work ou
 
 I've also gotten more adventurous with cooking at home. After many attempts, I can make pizzas from scratch that are decently similar to the typical delivery kind. I then use a few of the remaining ingredients from the pizza recipe to make [Adam Ragusea's chicken parm](https://www.youtube.com/watch?v=p-LY9b1u_io), which is excellent.
 
-Not long before the days of staying put at home, I was getting into tabletop gaming with a few other people I know. I'm grateful that Tabletop Simulator exists, however, since it allows me to continue playing tabletop games with friends, but online.
+Not long before the days of staying put at home, I was getting into tabletop gaming with a few other people I know. I'm grateful that Tabletop Simulator exists, however. It allows me to continue playing tabletop games with friends, but online.
 
 [Here's a screenshot of my desktop as of this update.](/assets/images/now/screen_2020-05-16.png)
 
-This is a [now page](https://nownownow.com/about).
+What's a [now page](https://nownownow.com/about)?
 {:.info}
