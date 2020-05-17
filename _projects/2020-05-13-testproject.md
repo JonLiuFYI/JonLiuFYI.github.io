@@ -1,8 +1,10 @@
 ---
-layout: article
 title: Test Project
-date: 2020-05-13 21:27:36 -0400
-cover: https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg
+cover: /assets/images/now/now_2020-05-16.jpg
+
+mode: immersive
+header:
+    theme: dark
 article_header:
   type: overlay
   theme: dark

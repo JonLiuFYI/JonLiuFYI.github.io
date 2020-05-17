@@ -222,6 +222,7 @@ defaults:
       path: ""
       type: projects
     values:
+      layout: project
       license: false
       show_date: false
 
