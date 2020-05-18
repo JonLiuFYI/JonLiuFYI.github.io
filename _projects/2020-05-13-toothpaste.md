@@ -1,6 +1,6 @@
 ---
 title: toothpaste — online store API
-# cover:
+cover: /assets/images/projects/toothpaste-docs.png
 ---
 [toothpaste](https://github.com/JonLiuFYI/toothpaste) is a hypothetical RESTful API for managing an online store's inventory and users' shopping carts. I made it as an exercise to try out Flask, a lightweight web application framework for Python.
 <!--more-->

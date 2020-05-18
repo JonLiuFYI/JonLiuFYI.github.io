@@ -13,7 +13,7 @@ type: article
 
   <div class="article__content" itemprop="articleBody">
     {%- if page.collection == 'projects' -%}
-      <a href="javascript:history.back()">← Back to Projects</a>
+      <a href="javascript:history.back()">← Back to Projects</a><br>
       {%- if page.cover -%}
         <img src="{{ page.cover }}" alt="Picture of project">
       {%- endif -%}
@@ -27,7 +27,9 @@ type: article
 
   <div class="d-print-none">
     {%- include article-footer.html -%}
-    {%- include article-section-navigator.html -%}
+    {%- if page.collection != 'projects' -%}
+      {%- include article-section-navigator.html -%}
+    {%- endif -%}
   </div>
 
 </div>

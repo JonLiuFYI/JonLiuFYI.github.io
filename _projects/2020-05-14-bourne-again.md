@@ -1,6 +1,6 @@
 ---
 title: bourne-again — team project for Global Game Jam 2020
-# cover:
+cover: /assets/images/projects/bourne-again.png
 ---
 
 [bourne-again](https://github.com/JonLiuFYI/bourne-again) is a puzzle game made in 48 hours for the Global Game Jam 2020. I worked as part of a team to make it. It's written in Python. The local GGJ event was hosted by Shopify Inc.
