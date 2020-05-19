@@ -161,6 +161,7 @@ layout: base
                         {%- endfor -%}
                       </ul>
                     {%- endif -%}
+
                   {%- if _full_width == false -%}
                     </div>
                   {%- endif -%}
@@ -181,6 +182,9 @@ layout: base
         {%- if _full_width == false -%}
           <div class ="main">
         {%- endif -%}
+
+          <!-- Jon doesn't want empty white bit to appear beneath index page -->
+          {%- if page.layout != 'landing' -%}
             <div class="grid grid--reverse">
 
               <div class="col-aside d-print-none js-col-aside">
@@ -217,13 +221,15 @@ layout: base
                 {%- include main/bottom/custom.html -%}
               </div>
             </div>
+          {%- endif -%}
 
         {%- if _full_width == false -%}
           </div>
         {%- endif -%}
         </div>
 
-        {%- if _footer != false -%}
+        <!-- Jon doesn't want footer on the index page -->
+        {%- if _footer != false and page.layout != 'landing' -%}
           <div class="page__footer d-print-none">{%- include footer.html -%}</div>
         {%- endif -%}
       </div>

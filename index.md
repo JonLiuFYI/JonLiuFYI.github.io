@@ -1,10 +1,31 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: landing
 title: Jon Liu
-show_title: true
----
+excerpt: Software developer-in-training • Ottawa, Ontario
 
-I am Jon Liu, for your information. This is my site.
+article_header:
+  avatar: /assets/images/avatar.jpg
+  actions:
+    - text: Projects
+      url: /projects
+      type: outline-theme-dark
+    - text: Blog
+      url: /blog
+      type: outline-theme-dark
+    - text: Now
+      url: /now
+      type: outline-theme-dark
+    - text: About
+      url: /about
+      type: outline-theme-dark
+    - text: Contact
+      url: /contact
+      type: outline-theme-dark
+  height: 100vh
+  align: left
+  theme: dark
+  background_color: "#222222"
+  background_image:
+    gradient: 'linear-gradient(90deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0))'
+    src: /assets/images/canal.jpg
+---

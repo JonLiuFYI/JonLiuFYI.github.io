@@ -31,6 +31,6 @@ It's written in Python and uses [docopt](http://docopt.org/) to define a POSIX-c
 ## shutengu — space shooter game
 *Dec 2012 ­– Jan 2013*
 
-shutengu was a space shooter-style game with a lot of bullets and few enemies. A partner and I made it as part of a final assignment for a high school computer science class.
+shutengu was a space shooter-style game with a lot of bullets and few enemies. A friend and I made it as part of a final assignment for a high school computer science class.
 
 It's written in a mix of C and C++. We used SDL to make graphics, audio, and input handling portable across operating systems.

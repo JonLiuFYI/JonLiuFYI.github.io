@@ -16,7 +16,14 @@
   {%- if _show_title or _show_edit_on_github -%}
     <div class="article__header">
       {%- if _show_title -%}
-        <header><h1>{{ _article_title }}</h1></header>
+        <header>
+          <!-- Jon wants a picture of him on the index page -->
+          {%- if page.layout == 'landing' -%}
+            <div><img src="{{ page.article_header.avatar }}" alt="Picture of Jon Liu"
+                      class="image image--sm" style="border-radius: 15%" /></div>
+          {%- endif -%}
+          <h1>{{ _article_title }}</h1>
+        </header>
       {%- endif -%}
       {%- if _show_edit_on_github -%}
         {%- if site.repository and site.repository_tree -%}

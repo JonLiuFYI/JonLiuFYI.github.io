@@ -10,6 +10,7 @@ header:
 article_header:
     type: overlay
     theme: dark
+    background_color: "#222222"
     background_image:
         gradient: 'linear-gradient(135deg, rgba(14, 91, 109, 0.5), rgba(35, 11, 55, 0.5))'
         src: /assets/images/now/now_2020-05-16.jpg

@@ -9,12 +9,13 @@ header:
 article_header:
     type: overlay
     theme: dark
+    background_color: "#222222"
     background_image:
         gradient: 'linear-gradient(135deg, rgba(136, 70, 0, 0.5), rgba(1, 38, 96, 0.5))'
         src: /assets/images/about/slater_metcalfe_blur.jpg
 ---
 
-My name is Jon Liu. I'm a hobbyist coder based in Ottawa, Ontario. I'm looking to turn that interest into a career, and I have the education to back it up.
+My name is Jon Liu. I'm a hobbyist coder based in Ottawa, Ontario.
 
 My two favourite programming languages are Python and C, and I've encountered and worked with plenty of others, like Java and Ruby. Every time I start a recreational software project, I like to involve something that's radically new to me to compare and contrast with my own experience, as well as just to do it for the first time. Some little things I've made for fun include:
 
