@@ -3,8 +3,13 @@ layout: page
 title: Contact
 ---
 
-* GitHub: [JonLiuFYI](https://github.com/JonLiuFYI)
-* Email: Fill the form below
+## Via GitHub
+My GitHub profile is [JonLiuFYI](https://github.com/JonLiuFYI).
+
+If you want to send me a message over GitHub, you can [submit an issue on the GitHub repository that hosts this site](https://github.com/JonLiuFYI/JonLiuFYI.github.io/issues/new), which I monitor for changes. Your comment will be visible to anyone who looks at the repository's issue tracker.
+
+## Via email
+Fill the form below.
 
 <script type="text/javascript">var submitted=false;</script>
 
