@@ -11,8 +11,13 @@ h1, h2, h3, h4, h5, h6, .header__title {
     letter-spacing: -.05em;
 }
 
+// highlight linked anchor
 :target {
    background-color: rgba($select-color, .3);
+}
+
+.search-button {
+  @include clickable($text-color-3, #555);
 }
 
 /* end custom scss snippet */
