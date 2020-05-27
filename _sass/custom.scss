@@ -1,5 +1,13 @@
 /* start custom scss snippet */
-// .header__title {
-//     font-family: "JetBrains Mono";
-// }
+
+@font-face {
+    font-family: "JBM";
+    src: url("/assets/JetBrainsMono-Bold.ttf");
+}
+
+h1, h2, h3, h4, h5, h6, .header__title {
+    font-family: "JBM";
+    letter-spacing: -.05em;
+}
+
 /* end custom scss snippet */
