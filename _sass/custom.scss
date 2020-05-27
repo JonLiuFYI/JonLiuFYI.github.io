@@ -3,6 +3,7 @@
 @font-face {
     font-family: "JBM";
     src: url("/assets/JetBrainsMono-Bold.ttf");
+    font-weight: 700;
 }
 
 h1, h2, h3, h4, h5, h6, .header__title {
@@ -11,7 +12,7 @@ h1, h2, h3, h4, h5, h6, .header__title {
 }
 
 :target {
-   background-color: rgba($main-color-1, .3);
+   background-color: rgba($select-color, .3);
 }
 
 /* end custom scss snippet */
