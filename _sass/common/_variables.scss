@@ -1,9 +1,9 @@
 $base: (
-  font-family:            (-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif),
-  font-family-code:       (Menlo, Monaco, Consolas, Andale Mono, lucida console, Courier New, monospace),
+  font-family:            (Cantarell, Ubuntu, "Segoe UI", Roboto, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif),
+  font-family-code:       ("JetBrains Mono", "Ubuntu Mono", Inconsolata, Consolas, "Roboto Mono", Menlo, Monaco, Andale Mono, lucida console, monospace),
 
-  font-size-root:         16px,
-  font-size-root-sm:      14px,
+  font-size-root:         18px,
+  font-size-root-sm:      16px,
 
   font-size-xl:           1.5rem,
   font-size-lg:           1.25rem,
@@ -98,7 +98,7 @@ $responsive: (
 );
 
 $animation: (
-  duration:               .4s,
+  duration:               .2s,
   duration-sm:            .2s,
   timing-function:        ease-in-out
 );
