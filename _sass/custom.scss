@@ -20,4 +20,9 @@ h1, h2, h3, h4, h5, h6, .header__title {
   @include clickable($text-color-3, #555);
 }
 
+// header link colour
+.header a:hover {
+  color: #ffbe6f !important;
+}
+
 /* end custom scss snippet */
