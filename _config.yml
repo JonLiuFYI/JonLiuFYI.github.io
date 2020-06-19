@@ -218,6 +218,8 @@ defaults:
       show_edit_on_github: false
       show_subscribe: true
       pageview: false
+      lightbox: true
+
   # all posts in /_projects
   - scope:
       path: ""
