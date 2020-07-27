@@ -25,4 +25,8 @@ h1, h2, h3, h4, h5, h6, .header__title {
   color: #ffbe6f !important;
 }
 
+// make code snippet text size bigger
+code {
+  font-size: map-get($base, font-size-sm);
+}
 /* end custom scss snippet */
