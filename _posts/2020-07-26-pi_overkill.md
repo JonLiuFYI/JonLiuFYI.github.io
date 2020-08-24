@@ -7,7 +7,7 @@ category: pi_overkill
 It's about 3.16. Why fight COVID-19 when you can instead make a program in Rust to confirm a mathematical fact that's been known for millenia?
 <!--more-->
 
-This is part 1 of the ongoing [`pi_overkill` series](/pi_overkill).
+This is part 1 of the ongoing `pi_overkill` series.
 {:.info}
 
 ## Background
