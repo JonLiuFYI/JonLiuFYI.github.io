@@ -2,7 +2,7 @@
 layout: article
 title: Now
 excerpt: What I've been up to lately
-date: 2020-05-16
+date: 2021-04-27
 
 mode: immersive
 header:
@@ -16,17 +16,27 @@ article_header:
         src: /assets/images/now/now_2020-05-16.jpg
 ---
 
-I'm still in Ottawa, though I think about my future (especially career-wise) and where else it could take me. Ever since being stuck at home because of the you-know-what, I've divided my weeks and days into segments to maintain a level of sanity in my home time. That means I spend weekdays working on personal interest projects or taking care of long-neglected TODOs, and spend evenings and weekends on leisure activities.
-
-Currently, my main "workplace" tasks are to search for jobs, get the hang of running this site, and set up an automated online backup solution. When I have the time, I also write original fiction and doodle.
-
-Since being required to stay home, I've upgraded my workout routine, and work out a few times per week. It's a bodyweight routine that involves a piano bench.
-
-I've also gotten more adventurous with cooking at home. After many attempts, I can make pizzas from scratch that are decently similar to the typical delivery kind. I then use a few of the remaining ingredients from the pizza recipe to make [Adam Ragusea's chicken parm](https://www.youtube.com/watch?v=p-LY9b1u_io), which is excellent.
-
-Not long before the days of staying put at home, I was getting into tabletop gaming with a few other people I know. I'm grateful that Tabletop Simulator exists, however. It allows me to continue playing tabletop games with friends, but online.
-
-[Here's a screenshot of my desktop as of this update.](/assets/images/now/screen_2020-05-16.png)
-
 What's a [now page](https://nownownow.com/about)?
 {:.info}
+
+I'm still in Ottawa and the pandemic is still going on. Given that I'm a healthy young adult who does everything from home plus the vaccine supply drama going on in Canada, I'm very far back in the line to get one.
+
+## MST3K is back… again
+After its revival was abrutply cancelled by Netflix a few years ago, Mystery Science Theater 3000's status was again in limbo. Just a few weeks ago, however, creator Joel Hodgson [started a new crowdfunding campaign](https://www.kickstarter.com/projects/mst3k/makemoremst3k) to fund another season with the same cast. This time, the core promise of the campaign is that MST3K will be self-published and distributed, bypassing any need to please a video network.
+
+I'm excited for the chance to support an additional season of the show, since I missed the chance to fund the first revival season. RiffTrax, a cousin project formed by other MST3K alumni, already showed that self-publishing worked, and the main drive to produce the show came from its cult following, since networks have consistently been reluctant to keep supporting the show.
+
+## Nice weather on the balcony
+I've moved into a new place with a balcony! Good timing, too, since it's late April and the weather is only getting nicer. As a substitute for going outside, going out on the balcony is pretty good. I have a little wooden fold-up table and chair from Ikea just for occasions like this.
+
+## More meatless
+Lately, I've been integrating more vegetarian and vegan recipes into my diet. At this point, I make something meatless two days in each week.
+
+Meat is expensive, it's less resource-efficient than just eating what the livestock would eat, and indirectly contributes to climate change. [Canada's healthy eating guide](https://food-guide.canada.ca/en/) already recommends against making meat your only source of protein, and I've found that that's not hard to achieve.
+
+On numerous occasions, I've tried a new recipe, found that I really liked it, then discovered that it's actually vegan, without explicitly being told this.
+
+Why not try out this [peanut butter soup recipe](https://www.youtube.com/watch?v=PHdPLQdjsfE) from You Suck at Cooking?
+
+## Screenshot
+[Here's a screenshot of my desktop as of this update.](/assets/images/now/now_screenshot.png)

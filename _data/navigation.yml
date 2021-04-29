@@ -1,15 +1,15 @@
 header:
+  - title: About
+    url: /about
+
+  - title: Experience
+    url: /experience
+
   - title: Projects
     url: /projects
 
   - title: Blog
     url: /blog
-
-  - title: Now
-    url: /now
-
-  - title: About
-    url: /about
 
   - title: Contact
     url: /contact

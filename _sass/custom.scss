@@ -29,4 +29,13 @@ h1, h2, h3, h4, h5, h6, .header__title {
 code {
   font-size: map-get($base, font-size-sm);
 }
+
+// work experience page
+.experience-entry {
+  margin-top: 1.2em;
+}
+.employer {
+  color: #777;
+  font-style: italic;
+}
 /* end custom scss snippet */

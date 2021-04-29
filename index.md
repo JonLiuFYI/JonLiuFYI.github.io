@@ -6,17 +6,17 @@ excerpt: Software developer-in-training • Ottawa, Ontario
 article_header:
   avatar: /assets/images/avatar.jpg
   actions:
+    - text: About
+      url: /about
+      type: outline-theme-dark
+    - text: Experience
+      url: /experience
+      type: outline-theme-dark
     - text: Projects
       url: /projects
       type: outline-theme-dark
     - text: Blog
       url: /blog
-      type: outline-theme-dark
-    - text: Now
-      url: /now
-      type: outline-theme-dark
-    - text: About
-      url: /about
       type: outline-theme-dark
     - text: Contact
       url: /contact
