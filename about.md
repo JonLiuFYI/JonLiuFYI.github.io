@@ -16,9 +16,9 @@ article_header:
 ---
 
 ## My name is Jon Liu.
- I'm a hobbyist coder based in Ottawa, Ontario. I enjoy Python scripting and coding silly little projects for my own amusement. Want to see what I do? Check out my [work experience](/experience.md) and [projects](/projects.md).
+ I'm a hobbyist coder based in Ottawa, Ontario. I enjoy coding silly little projects for my own amusement. I'm also a full-time Linux user and have been for several years now, though my experience with it goes back further. My main experience is with Fedora/RHEL and Ubuntu.
 
- Find out what I've been up to recently over at my [Now page](/now.md).
+Want to see what I do? Check out my [work experience](/experience.md) and [projects](/projects.md). Find out what I've been up to recently over at my [Now page](/now.md).
 
 ### Programming languages
 Proficient with:
