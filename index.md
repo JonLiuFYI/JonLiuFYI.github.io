@@ -18,7 +18,7 @@ article_header:
     - text: Blog
       url: /blog
       type: outline-theme-dark
-    - text: Contact
+    - text: GitHub & Contact
       url: /contact
       type: outline-theme-dark
   height: 100vh
