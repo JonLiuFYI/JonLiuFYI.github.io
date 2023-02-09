@@ -1,9 +1,9 @@
 ---
 position: Security Research Student
 daterange: Sep 2021–Apr 2022
-employer: BlackBerry
+employer: BlackBerry Ltd.
+location: Waterloo, ON
 ---
-* *Python, Apache Kafka* — Developed a REST API for an automated vulnerability management tool that reports live vulnerability data
-* Used proficiency with Python design patterns and best practices to fix container-related bugs and refactor for code quality
-* *Docker* — Researched flaws in how vulnerability scanners for Docker containers detect vulnerable and malicious software
-* Investigated common attack methods against web applications
+* Developed Python/Kafka automation tool to assess Docker security risks at company-scale by aggregating vulnerability data from web databases and Kubernetes cluster scans
+* Led and presented live demo and pitch to deploy it to all dev teams
+* Tested and found web app security flaws by learning to investigate them with OWASP Zap

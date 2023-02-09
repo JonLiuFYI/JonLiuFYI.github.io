@@ -2,10 +2,9 @@
 position: Solutions Engineering Student
 daterange: Sep 2020–Apr 2021
 employer: Centre of Excellence in Next Generation Networks (CENGN)
+location: Ottawa, ON
 ---
-* Cleared a long-time productivity bottleneck by designing and implementing an automation
-tool in Python
-* Used strong technical communication skills to create reports and presentations, to the supervisor's
-commendations
-* Accelerated clients' project progress by conducting technical research to support their projects
-* Deployed private cloud environments for client projects, using certified OpenStack experience
+* Automated away a long-time productivity bottleneck by developing a Python tool to collect data across CENGN's private clouds and present it in an internal Flask web app; now integrated into all future VM deployments
+* Accelerated client project by weeks by prototyping a distributed REST API load testing solution
+* Deployed Docker containers and Linux VM clusters for client projects
+* Wrote technical reports and docs using strong communication skills, to supervisor's commendations
