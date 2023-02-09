@@ -6,6 +6,9 @@ tags: jekyll fedora github-pages howto
 The quick guide to something that should be really simple, but just isn't for some reason.
 <!--more-->
 
+**Update Feb 2023:** the way I set up Jekyll for site development has changed since this article. [Check out how I do it now]({% post_url 2023-02-08-jekyll-toolbx %}).
+{:.info}
+
 ## Background
 In this article, I'll explain how to set up a Jekyll site under Fedora, ready for GitHub Pages as a personal site under your GitHub username. I can confirm that this works in Fedora 31 and 32.
 
