@@ -53,7 +53,7 @@ layout: page
       {%- include article-list.html articles=_articles type='brief' show_info=_show_info -%}
 
       <!-- Jon added this so the projects listing would sort reverse chron -->
-    {%- elsif page.title == 'Projects' -%}
+    {%- elsif page.title == 'Personal Projects' -%}
       {%- include snippets/assign.html
         target=site.data.variables.default.page.articles.show_cover
         source0=layout.articles.show_cover source1=page.articles.show_cover -%}

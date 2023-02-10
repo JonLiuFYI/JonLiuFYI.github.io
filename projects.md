@@ -1,6 +1,6 @@
 ---
 layout: articles
-title: Projects
+title: Personal Projects
 articles:
     data_source: site.projects
     type: item
