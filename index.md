@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Jon Liu
-excerpt: Software developer-in-training • Ottawa, Ontario
+excerpt: Software development • Ottawa, Ontario
 
 article_header:
   avatar: /assets/images/avatar.jpg

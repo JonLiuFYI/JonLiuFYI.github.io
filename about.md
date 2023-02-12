@@ -1,7 +1,7 @@
 ---
 layout: article
 title: About Jon Liu
-excerpt: Software developer-in-training • Ottawa, Ontario
+excerpt: Software development • Ottawa, ON
 
 mode: immersive
 header:
@@ -16,32 +16,26 @@ article_header:
 ---
 
 ## My name is Jon Liu.
- I'm a hobbyist coder based in Ottawa, Ontario. I enjoy coding silly little projects for my own amusement. I'm also a full-time Linux user and have been for several years now, though my experience with it goes back further. My main experience is with Fedora/RHEL and Ubuntu.
+I'm a coder based in Ottawa, Ontario, with diverse software development experience learned from [personal hobby projects](/projects.md) and [work](/experience.md). This includes communicating with embedded devices over Bluetooth, serving web app requests with a REST API, and collecting and processing large amounts of data.
 
-Want to see what I do? Check out my [work experience](/experience.md) and [projects](/projects.md). Find out what I've been up to recently over at my [Now page](/now.md).
+I'm also a full-time Linux user and have been for several years now. My first experience with operating systems other than Windows was [Ubuntu 8.04, back in 2008]({% post_url 2022-05-03-ubuntu-cd %}), from a free mail-order CD. These days, I daily drive Fedora, but still use Ubuntu frequently.
+
+<!-- [Now page](/now.md). -->
 
 ### Programming languages
 Proficient with:
 * Python
-* C
-* Java
-* HTML and CSS
+* Rust
+* C and C++
 
 Experience with:
-* JS
-* Rust
+* Java
 * Ruby
+* JS
 * SQL
 
-### Coding
-Every time I start a recreational software project, I like to involve something that's radically new to me to compare and contrast with my own experience, as well as just to do it for the first time. Some little things I've made for fun include:
-
-* a web "browser" in 85 lines of code using Tkinter, Python's built-in GUI toolkit;
-* an rhythm game for Android that's controlled using no buttons at all, made after one week of experience with [Godot](https://godotengine.org/); and
-* a POSIX-compliant command-line application that scrapes websites for Pokémon stats.
-
-### Photography
-I enjoy photography as a casual hobby. Lately, I've been taking almost all of my photos using my smartphone, a Pixel 3a. Everywhere I go, I try to take a photo of at least one intresting thing.
+## Photography
+I enjoy photography as a hobby. Everywhere I go, I try to take a photo of at least one intresting thing.
 
 Fun fact: I've taken photos of the benches at each metro station in Montreal. Almost every station has its own unique bench design.
 
