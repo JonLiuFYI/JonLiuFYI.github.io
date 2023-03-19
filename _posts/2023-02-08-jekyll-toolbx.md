@@ -20,7 +20,7 @@ In that previous article I wrote about setting up Jekyll, I described the steps 
 * It can pollute your home directory, adding lots of Ruby gems and putting executables like `bundle` on your PATH. I personally don't use Ruby outside of generating Jekyll sites, so I find it annoying.
 * It's a more fragile setup prone to breaking, since it's tied to your system's package updates and can inadvertently depend on the specific state of your host system.
 
-I had my Jekyll environment break once because upgrading to a new version of Fedora also upgraded the system Ruby installation from 2.7 to 3. I wouldn't have had to deal with fixing that if I kept that environment in a container.)
+I had my Jekyll environment break once because upgrading to a new version of Fedora also upgraded the system Ruby installation from 2.7 to 3. I wouldn't have had to deal with fixing that if I kept that environment in a container.
 
 Wait. Things breaking when a version 2.7 becomes 3? This sounds kind of like Python!
 {:.info}
