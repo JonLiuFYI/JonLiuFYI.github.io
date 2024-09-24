@@ -34,4 +34,4 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 
 # (SELF-NOTE) Ruby 3 doesn't play nicely with GitHub Pages
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
